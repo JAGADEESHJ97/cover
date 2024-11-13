@@ -1,4 +1,4 @@
-# Ex.06 Book Front Cover Page Design
+# Ex.05 Book Front Cover Page Design
 ## Date:07-11-2024
 
 ## AIM:
